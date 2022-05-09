@@ -1,3 +1,14 @@
 {
-  "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main"
+  "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main",
+  "hostRules": [
+    {
+      "matchHost": "https://ioanaenv.jfrog.io/artifactory/default-ioana-centra-libs-snapshot-local/",
+      "hostType": "maven",
+      "username": "ioana.nicolae@whitesourcesoftware.com",
+      "encrypted": {
+        "token": "wcBMA8xOaBJvzJNbAQf/V1wncq4IWj6RI99jaF+WFOTcbKVlM69gmY7WHqc5ur3tdxSEn2RLiu8zpRHbWkpX9DBisYAUROypcf8/JZR7sdhIV4H9UBrEwHJSxcuSDoIMWHkuY0Ki4IrH9sSwk9UtKmJMsNC8IpP1u/8uAWXrFcQqonlrlc2h5d+7V+Ra552XUdBe0GFqRzP79ZbspVKu+8HcYKee4kxcl2mXqg9tbkD/8sa4mM3yt/qXPWBw9uEcF3Se77xwRm0p9K9cFvvKqa7mk6MTA6xHEP96YeivGa030nfdVJykJ+lSas1inEqWuKbdvEfCUDk9Xy9DtZTI7xWfqA9A0vALtHXUV/epSNLCnAH9RI1UPk8Yb2FJz/jugzw0ZjB6jMjoE12anBtR8pzlUvcX6vjIWaF9B3nVptYDETXu1GonWKsipAaV8Qu0zmNAY0s3Wjvd0lJYHzhgkFYKwK/7zxTJb2dY2iO6OC6Htxg47nZnUnnktcdu+q8q81tD12ZxwshtlEbqvEFULKtGGCJVk4anGwKFbN79sTpCsoilkpQLRlw84je8ISwEkh0gAAfJaoOWUUDx1owonILvJG30AKfvD2jKtMrCWzaFwAlcTZ0tamgqzZZgwVlaYdCHP5Sn0UawFzNPXjgzWQn/SFO668vrepqVkHkQZZ0U/xxPyT8KWkRTwESxNtx+fMXslPk+LNLKNUdU+JCgPdW1JfRAI+JYgIeL3byXWtfEjSlKPZe/LAqMkZFtynKvbvTQDqh7+QzgzQ9XszGjWDkxQYt94Ijoc1HvOqGRU4462/N9UqmfvmwUH8WyZ625+4nttVP2cFH1aL8Y8UaEQn8LCpoJWEJ+izu5q9R8IRyI1rwZz4SuntFKFmQcYcOdnX2d2OdaslG0/8eqMw1ZSYs6E2tKqJcx6my2Vqn2qQYT+AuhjK1cpFLRrfEu8pNPTMc2DPJ7kgt6JuD1zhd/rg9UouorM3kSUemiTPsQa4TIqHAq7a+nm4hC9bF93N/R4kt7cP650hE4B8CFt88IUoousztaMpwpgpJfy0k7CxtQ6DkX9B2ZcUVfPPPSH2o3/XJTDm67VQ/dZK1vfjlc99NNySCb96jMSrr7wlOY+1UEXRdEhtS5D1jRdxyzJoDQF4go/7eJlB3AuYwLd4T+WIlVmSsPQklhGT8cD5bQwdZoi1J7fO2lxGP+d5hmFbxSLC3VkmZ7avP7+LM28m1vYUKM0W+5S9rNfyOMQVqYd3j4mCCZzVDAlVU2bMjZNaf9Iv93bpxrqdV8oH0J1ufCaBmRmkt9IFSkO80rn/X41gY+SPCI69BtudATn+DFNmc6rBCTCOl8J8FARmcEjcI94tYhfDAxfNW9+2Muw6hjDHqB5qNgkXAjYyTbBQkIjZPos3hscBztsRE+wn0pxwnZEe+FCobt9Ui3PYWJXsWWobpWFX6TthOyHvdgGU6FI16No2wkKUMFA6sy+jXz3eie3cZqzya8HTzcXPIQF/Hn"
+      }
+    }
+  ]
+}
 }
