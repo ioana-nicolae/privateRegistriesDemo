@@ -1,3 +1,6 @@
+
+
+
 {
   "settingsInheritedFrom": "ioana-nicolae/whitesource-config@main",
   "hostRules": [
@@ -7,7 +10,10 @@
       "username": "ioana.nicolae17@gmail.com",
       "encrypted": {
         "password": "wcBMA8xOaBJvzJNbAQf/ZSNgfTw+2y/1J4jsC//sW0y2prLSxpkj6a2DWkgoWBCcG3/sHWep4TyY5x7oa50eJ0Ccw3NnNdHAODH4tA4N7xoVogNnXvwQ2nvvuVPqCBwgwJ3c6lOnkU9k0uKPqv3LSdPXtqd/GVJj7sDz0LCb8zayPM83BS2pwU6PAi444Kdqk8jA1pIwgkZ1Cf6XkHL550TMVWuvtGWEKAr72R9YunWYPtVzYhlDmh/ZSxD2hel1Au8B+dBxv0ZvPdIe5b6ApVvcUq7FBPj1DLVa+O/udAoFyYk2sP+MJPWWRTFoxrrl21rvIsPAtkyRc9nBkGvSXFgH7lafA8FY94irgkzfKNJvAaLnZbDnfPAiDR3z37RpBQ8vka+qA0mRy8mlCemDLU8obVTN7fYPc5+lsolMYg2tTT+CAyk26/lu0H4z4CjQ7Sx8krIv0QsudL1lCqw8fFVboQSaNdba1JfCrLdBUiEp5tvWuzySwKDAmWY6TBe2"
+      
+      
       }
     }
-  ]
+  ] 
 }
+
